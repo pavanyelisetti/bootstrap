@@ -1,0 +1,12 @@
+
+.row
+{
+	background-color: black;
+
+}
+#col
+{
+	background-color: darkgray;
+	border: 10px solid black;
+	text-align: center;
+}
